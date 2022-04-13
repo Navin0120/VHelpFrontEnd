@@ -1,0 +1,24 @@
+.back{
+    background: #E8CBC0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #636FA4, #E8CBC0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #636FA4, #E8CBC0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.image{
+    border-radius: 100px;
+    image-rendering: crisp-edges;
+}
+.card1:hover {
+    transform: scale(1.15);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+}
+.pages{
+    position:fixed;
+    top:90%;
+    
+}
+.pages1{
+    position:fixed;
+    top:90%;
+    right:5%
+}

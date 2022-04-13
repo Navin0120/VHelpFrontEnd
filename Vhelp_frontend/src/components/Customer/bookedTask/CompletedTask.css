@@ -1,0 +1,25 @@
+.rating{
+    width:60%;
+}
+.tabledata{
+    font-family:'Times New Roman', Times, serif
+}
+td{
+    padding-right: 5px;
+   color: rgb(10, 50, 126) !important;
+}
+.heading1{
+    font-family:Georgia, 'Times New Roman', Times, serif !important;
+    color: rgb(139, 88, 10);
+    align-items: center;
+}
+.bookedtask{
+    color:brown;    
+}
+.pages{
+    position:fixed;
+    top:90%
+}
+.completedTask {
+    color:brown; 
+  }

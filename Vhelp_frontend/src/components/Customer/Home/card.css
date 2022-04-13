@@ -1,0 +1,38 @@
+.card-back{
+  
+
+    display: grid;
+    border-radius: 20px;
+    grid-template-columns: repeat(4, minmax(200px, 500px));
+}
+
+.text{
+    font-size:larger;
+}
+
+.card-text{
+    color: antiquewhite;
+}
+
+.main--card--container{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 500px));
+   margin-top:10px;
+   background: #000428;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
+  border-radius: 10%;
+}
+/* .form-element{
+    padding-left: 12%;
+    
+} */
+.card1:hover {
+    transform: scale(1.15);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .06);
+    border-radius: 10%;
+}
+.image1{
+    border-radius: 10%;
+}

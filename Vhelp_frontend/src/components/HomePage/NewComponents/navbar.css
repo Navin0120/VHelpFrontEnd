@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Cinzel+Decorative&family=Fondamento&family=Merienda+One&display=swap');
+.navbar{
+    background: #453d8c;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+height: 10vh;
+
+}
+
+.logo{
+    height:6vh;
+    padding-right: 0.25%;
+}
+
+.brand-name{
+    font-family: 'Fondamento', cursive;
+   color: #eacda3;  /* fallback for old browsers */
+color: -webkit-linear-gradient(to right, #d6ae7b, #eacda3);  /* Chrome 10-25, Safari 5.1-6 */
+color: linear-gradient(to right, #d6ae7b, #eacda3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    
+  
+   
+}
+

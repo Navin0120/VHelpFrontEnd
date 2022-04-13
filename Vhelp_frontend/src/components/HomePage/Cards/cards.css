@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@500&family=Della+Respira&display=swap');
+
+.card-con{
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 500px));
+    height: 100%;
+    justify-content:space-between;
+    background: #005AA7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+}
+
+.card--main{
+    margin: 2%;
+    background: #6190E8;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #A7BFE8, #6190E8);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #A7BFE8, #6190E8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+.card-head{
+    background: #000046;  
+    font-family: 'Della Respira', serif;
+    
+font-size: 150%;
+}
+
+.heading{
+    font-family: 'Baloo Thambi 2', cursive;
+    /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+
+
+}
+.card-text{
+    font-family: 'Baloo Thambi 2', cursive;
+    color: black;
+}

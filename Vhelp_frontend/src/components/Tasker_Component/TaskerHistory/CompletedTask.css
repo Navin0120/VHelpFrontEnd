@@ -1,0 +1,33 @@
+.rating{
+    width:60%;
+}
+.tabledata{
+    font-family:'Times New Roman', Times, serif
+}
+.history td{
+    padding-right: 5px;
+    font-style: italic;
+    font-size: larger;
+   color: rgb(245, 228, 130) !important;
+}
+.font1{
+    color: aliceblue;
+}
+
+.pendingtask td{
+    padding-right: 5px;
+    font-size: larger;
+    color: rgb(245, 228, 130) !important;
+}
+
+.head2{
+    color: rgb(136, 8, 8) ;
+}
+.heading2
+{
+color: brown;
+}
+th{
+    color: rgb(4, 91, 97) !important;
+    font-size: larger;
+}

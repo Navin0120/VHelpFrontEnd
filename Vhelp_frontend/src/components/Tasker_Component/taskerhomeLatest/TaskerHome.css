@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@600&display=swap');
+#mess1{
+    font-size:larger;
+    font-weight:bolder;
+    color: rgb(67, 36, 192);
+}
+.task-table{
+    margin-left: 1%;
+    background: #3e33a3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #625ab0, #312782);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #5959ac, #302b63, #4c439b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.table--row{
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 135%;
+    
+}
+tbody:hover {
+    background-color: #6ca0a5;
+  }
+  .alert{
+      position:fixed;
+      left:50%;
+      top:20%
+      
+  }
+  .as th{
+      font-size: medium;
+  } 
